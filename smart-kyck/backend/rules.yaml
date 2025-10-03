@@ -1,0 +1,8 @@
+# rules.yaml
+# Live-editable KYC rules (placeholder)
+
+# Example:
+# - id: rule_1
+#   description: "Sample rule"
+#   condition: "..."
+#   outcome: "..."

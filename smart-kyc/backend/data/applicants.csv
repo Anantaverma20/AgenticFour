@@ -1,0 +1,6 @@
+id,name,email,country,dob,document_type
+1,Vladimir Petrov,vpetrov@example.com,Russia,1975-03-15,passport
+2,Jane Doe,jane.doe@example.com,USA,1990-06-20,drivers_license
+3,Ahmed Rashid,ahmed.r@example.com,Syria,1982-11-05,passport
+4,Sarah Johnson,sarah.j@example.com,Canada,1988-04-12,passport
+5,Maria Santos,msantos@example.com,Venezuela,1979-09-30,passport

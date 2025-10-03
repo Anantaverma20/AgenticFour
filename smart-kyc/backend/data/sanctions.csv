@@ -1,0 +1,7 @@
+id,name,aliases,country,source,list_type
+1,Vladimir Petrov,V. Petrov|Vlad Petrov,Russia,OFAC,SANCTIONS
+2,Ahmed Al-Rashid,A. Al-Rashid|Ahmed Rashid,Syria,UN,SANCTIONS
+3,Kim Jong-Nam,K. Jong-Nam,North Korea,EU,SANCTIONS
+4,Maria Santos,M. Santos,Venezuela,OFAC,PEP
+5,John Smith,J. Smith|Johnny Smith,USA,Internal,PEP
+6,Hassan Ibrahim,H. Ibrahim,Iran,OFAC,SANCTIONS
